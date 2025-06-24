@@ -1,5 +1,11 @@
 # Projeto Distâncias
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow" />
+  <img src="https://img.shields.io/badge/Planilhas-Excel-green" />
+</p>
+
 Calcula a distância em linha reta entre São Caetano do Sul - SP e várias cidades brasileiras usando:
 
 - 🐍 Python
