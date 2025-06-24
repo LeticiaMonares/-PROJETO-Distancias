@@ -25,3 +25,8 @@ Ideal para análises logísticas, planejamento de rotas e visualização de dado
 1. Instale as dependências:
    ```bash
    pip install pandas geopy openpyxl
+
+---
+
+👩‍💻 Desenvolvido por [Letícia Monares]([https://www.linkedin.com/in/seu-user-aqui](https://www.linkedin.com/in/leticia-monares-875493182/))  
+📫 Entre em contato: monares.leticia@gmail.com
