@@ -28,5 +28,8 @@ Ideal para análises logísticas, planejamento de rotas e visualização de dado
 
 ---
 
-👩‍💻 Desenvolvido por [Letícia Monares]([https://www.linkedin.com/in/seu-user-aqui](https://www.linkedin.com/in/leticia-monares-875493182/))  
-📫 Entre em contato: monares.leticia@gmail.com
+<p align="center">
+  🔒 Desenvolvido por <a href="https://www.linkedin.com/in/leticia-monares-875493182/">Letícia Monares</a><br>
+  📬 Entre em contato: monares.leticia@gmail.com
+</p>
+
