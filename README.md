@@ -7,6 +7,10 @@ Calcula a distância em linha reta entre São Caetano do Sul - SP e várias cida
 - 📊 Planilhas Excel
 - 📌 Geolocalização via OpenStreetMap
 
+## 🖼️ Exemplo de código em uso
+
+![Código Python exemplo](./codigo_exemplo.png)
+
 ## 📂 Aplicações
 Ideal para análises logísticas, planejamento de rotas e visualização de dados geográficos.
 
